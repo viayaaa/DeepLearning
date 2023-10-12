@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="D:\Softs\Anaconda\Scripts\black.exe" />
+    <option name="sdkUUID" value="34eee78d-803f-489b-b3ff-8e0a21d85a9f" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (pytorch)" project-jdk-type="Python SDK" />
 </project>
